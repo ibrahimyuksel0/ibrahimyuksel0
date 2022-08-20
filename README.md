@@ -11,4 +11,6 @@ Halen yoluma NodeJS ile devam ediyorum.
 
 -----
 
-İletişim : ibrahimyks99@gmail.com
+İletişim  : ibrahimyks99@gmail.com
+Twitter   : https://twitter.com/ibyuk
+NPM       : https://www.npmjs.com/~losenly
