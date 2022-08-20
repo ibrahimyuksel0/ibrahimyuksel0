@@ -10,7 +10,8 @@ Daha sonra sunucu tarafında çalışan uygulamalar yapmak için NodeJS yazılı
 Halen yoluma NodeJS ile devam ediyorum.
 
 -----
-
+<pre>
 İletişim  : ibrahimyks99@gmail.com <br>
 Twitter   : https://twitter.com/ibyuk <br>
 NPM       : https://www.npmjs.com/~losenly <br>
+</pre>
